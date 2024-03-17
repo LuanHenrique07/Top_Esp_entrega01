@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.sourcelink.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\bin\Debug\net8.0\exercicio.exe
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\bin\Debug\net8.0\exercicio.deps.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\bin\Debug\net8.0\exercicio.runtimeconfig.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\bin\Debug\net8.0\exercicio.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\bin\Debug\net8.0\exercicio.pdb
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\refint\exercicio.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.pdb
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\exercicio\obj\Debug\net8.0\ref\exercicio.dll
